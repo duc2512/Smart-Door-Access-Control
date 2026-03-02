@@ -18,16 +18,22 @@
 
 ## 📸 Demo
 
-<!-- 
-🔽 THÊM HÌNH ẢNH / VIDEO DEMO TẠI ĐÂY 🔽
-Ví dụ:
-![Demo](docs/demo.gif)
-![Hardware](docs/hardware.jpg)
--->
+<div align="center">
 
-> ⚠️ *Vui lòng thêm ảnh/video demo thiết bị phần cứng tại đây.*
->
-> ⚠️ *Please add hardware demo images/videos here.*
+### 🔧 Hardware / Phần cứng
+![Hardware Overview](docs/hardware_overview.png)
+*Toàn bộ hệ thống: LCD 20x4, TTP229 Keypad, Relay + Solenoid Lock, MFRC522 RFID, R307 Fingerprint, ESP32*
+
+---
+
+### 📱 Blynk Mobile App
+
+| Dashboard | Notifications |
+|:-:|:-:|
+| ![Blynk App](docs/blynk_app.png) | ![Blynk Notifications](docs/blynk_notifications.png) |
+| *Điều khiển từ xa qua Blynk* | *Cảnh báo xác thực real-time (RFID, vân tay, mật khẩu)* |
+
+</div>
 
 ---
 
